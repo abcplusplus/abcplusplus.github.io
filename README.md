@@ -14,6 +14,7 @@ pip install livereload
 ### run web server
 
 ```
+cd abcplusplus.github.io
 livereload . -p 8000 -w 5
 ```
 
@@ -23,6 +24,6 @@ livereload . -p 8000 -w 5
 ### Enable developer tools in google and
 See the images below
 
-![enable dev tools][images/images/enable-developer-tools.png]
+![enable dev tools](images/enable-developer-tools.png)
 
-![disable cache][images/disable-cache.png]
+![disable cache](images/disable-cache.png)
