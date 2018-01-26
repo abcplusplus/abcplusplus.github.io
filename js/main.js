@@ -167,7 +167,7 @@
 	// If the count down is finished, write some text
 	if (distance < 0) {
 	 clearInterval(x);
-	 document.getElementById("demo").innerHTML = "La Ceremonia de la boda terminó";
+	 document.getElementById("demo").innerHTML = "La Ceremonia de la boda termino";
 	}
 	}, 1000);
 
